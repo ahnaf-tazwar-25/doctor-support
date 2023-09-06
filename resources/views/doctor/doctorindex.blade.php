@@ -43,12 +43,12 @@
                 </a>
             </li>
 
-            <li class="nav-item">
+            {{-- <li class="nav-item">
                 <a class="nav-link" href="{{ route('doctorDocList') }}">
                     <i class="fas fa-stethoscope fa-2x text-primary"></i>
                     <span>Doctors</span>
                 </a>
-            </li>
+            </li> --}}
 
             <hr class="sidebar-divider">
             <div class="sidebar-heading">
